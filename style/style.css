@@ -1,1 +1,24 @@
 #map { height: 600px; }
+/* Estilos para las fotos tipo Polaroid */
+.polaroid {
+    width: 200px; /* Ajusta el tamaño de la foto */
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para el efecto Polaroid */
+    text-align: center;
+}
+
+.polaroid img {
+    width: 100%; /* Asegura que la imagen tenga el tamaño adecuado dentro del marco */
+    height: auto;
+    border-radius: 5px; /* Bordes redondeados para la imagen */
+}
+
+.polaroid .caption {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #555; /* Color de la descripción de la foto */
+    font-style: italic;
+}
