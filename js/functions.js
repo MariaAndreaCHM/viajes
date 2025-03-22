@@ -43,7 +43,7 @@
                 "properties": {
                     "title": " Blois",
                     "photo": "assets/fotos/universite.jpg",
-                    "description": "Blois-Université IUT Blois 2022"
+                    "description": "Blois-Université IUT Blois 2021"
                 }
             },
             {
@@ -55,7 +55,7 @@
                 "properties": {
                     "title": " Blois",
                     "photo": "assets/fotos/castillo.jpg",
-                    "description": "Blois- Castillo Real 2022"
+                    "description": "Blois- Castillo Real 2021"
                 }
             }, {
                 "type": "Feature",
@@ -66,7 +66,7 @@
                 "properties": {
                     "title": " Orleans",
                     "photo": "assets/fotos/orleans.jpg",
-                    "description": "Orleans- Catedral de la Santa Cruz 2022"
+                    "description": "Orleans- Catedral de la Santa Cruz 2021"
                 }
                 
             },
@@ -79,7 +79,7 @@
                 "properties": {
                     "title": " Orleans",
                     "photo": "assets/fotos/museoOrleans.jpg",
-                    "description": "Orleans- Museo de bellas artes 2022"
+                    "description": "Orleans- Museo de bellas artes 2021"
                 },
                 
             },
@@ -92,7 +92,7 @@
                 "properties": {
                     "title": " Valenciennes",
                     "photo": "assets/fotos/valencienne.jpg",
-                    "description": "Valenciennes-2022"
+                    "description": "Valenciennes-2021"
                 },
                 
             },
@@ -105,7 +105,7 @@
                 "properties": {
                     "title": " Lille",
                     "photo": "assets/fotos/lille.jpg",
-                    "description": "Lille-2022"
+                    "description": "Lille-2021"
                 },
                 
             },
@@ -254,6 +254,320 @@
                     "description": "Paris-Roland Garros 2022"
                 }
             }, 
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.1294, 45.8992] // París
+                },
+                "properties": {
+                    "title": " Annency",
+                    "photo": "assets/fotos/annency.jpg",
+                    "description": "Annency- 2022"
+                }
+            }, 
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [5.7679, 45.2611] // París
+                },
+                "properties": {
+                    "title": " Grenoble",
+                    "photo": "assets/fotos/grenoble.jpg",
+                    "description": "Grenoble-Le sappey en chartreuse 2022"
+                }
+            }, 
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-0.5792, 44.8378] // París
+                },
+                "properties": {
+                    "title": " Bordeaux",
+                    "photo": "assets/fotos/bordeaux.jpg",
+                    "description": "Bordeaux-2022"
+                }
+            }, 
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [4.8357, 45.7640] // París
+                },
+                "properties": {
+                    "title": " Lyon",
+                    "photo": "assets/fotos/lyon.jpg",
+                    "description": "Lyon-2022"
+                }
+            }, 
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.1844, 48.6921] // París
+                },
+                "properties": {
+                    "title": " Nancy",
+                    "photo": "assets/fotos/nancy.jpg",
+                    "description": "Nancy-2021"
+                }
+            }, 
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [2.3500, 48.8529] // París
+                },
+                "properties": {
+                    "title": " Paris",
+                    "photo": "assets/fotos/notre.jpg",
+                    "description": "Paris- Notre Dame 2021"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [2.3522, 48.8606] // París
+                },
+                "properties": {
+                    "title": " Paris",
+                    "photo": "assets/fotos/pompid.jpg",
+                    "description": "Paris- Pompidou 2021"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [2.3450, 48.8566] // París
+                },
+                "properties": {
+                    "title": " Paris",
+                    "photo": "assets/fotos/sainte.jpg",
+                    "description": "Paris- Sainte-Chapell 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.7521, 48.5734] // París
+                },
+                "properties": {
+                    "title": " Stasbourg",
+                    "photo": "assets/fotos/stras.jpg",
+                    "description": "Stasbourg-2021"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [2.1204, 48.8049] // París
+                },
+                "properties": {
+                    "title": " Versailles",
+                    "photo": "assets/fotos/versailles.jpg",
+                    "description": "Versailles-Palacio de Versailles 2021"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [2.7800, 48.8708] // París
+                },
+                "properties": {
+                    "title": " Paris",
+                    "photo": "assets/fotos/disney.jpg",
+                    "description": "Paris-Disney 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.4474, 46.9481] // París
+                },
+                "properties": {
+                    "title": " Berna",
+                    "photo": "assets/fotos/bern.jpg",
+                    "description": "Suiza-Berna 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.13, 49.6117] // París
+                },
+                "properties": {
+                    "title": " Luxemburgo",
+                    "photo": "assets/fotos/luxemburgo.jpg",
+                    "description": "Luxemburgo-Luxemburgo 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [4.3517, 50.8503] // París
+                },
+                "properties": {
+                    "title": " Bruselas",
+                    "photo": "assets/fotos/bruselas.jpg",
+                    "description": "Bélgica-Bruselas 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [3.2247, 51.2093] // París
+                },
+                "properties": {
+                    "title": " Brujas",
+                    "photo": "assets/fotos/brujas.jpg",
+                    "description": "Bélgica-Brujas 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [4.9041, 52.3676] // París
+                },
+                "properties": {
+                    "title": " Amsterdam",
+                    "photo": "assets/fotos/amsterdam.jpg",
+                    "description": "Paises Bajos-Amsterdam 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [13.4050, 52.5200] // París
+                },
+                "properties": {
+                    "title": " Berlin",
+                    "photo": "assets/fotos/berlin.jpg",
+                    "description": "Alemania-Berlin 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [13.2906, 52.7563] // París
+                },
+                "properties": {
+                    "title": " Oranienburgo",
+                    "photo": "assets/fotos/oranienburgo.jpg",
+                    "description": "Alemania-Oranienburgo 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [20.0667, 49.9833] // París
+                },
+                "properties": {
+                    "title": " Wieliczka",
+                    "photo": "assets/fotos/wiel.jpg",
+                    "description": "Polonia-Wieliczka 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [19.9450, 50.0647] // París
+                },
+                "properties": {
+                    "title": " Cracovia",
+                    "photo": "assets/fotos/krakow.jpg",
+                    "description": "Polonia-Cracovia 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [14.4378, 50.0755] // París
+                },
+                "properties": {
+                    "title": " Praga",
+                    "photo": "assets/fotos/rc.jpg",
+                    "description": "Republica Checa-Praga 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [19.0402, 47.4979] // París
+                },
+                "properties": {
+                    "title": " Hungria",
+                    "photo": "assets/fotos/bud.jpg",
+                    "description": "Hungria-Budapest 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [12.3155, 45.4408] // París
+                },
+                "properties": {
+                    "title": " Italia",
+                    "photo": "assets/fotos/venecia.jpg",
+                    "description": "Italia-Venecia 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [12.4964, 41.9028] // París
+                },
+                "properties": {
+                    "title": " Italia",
+                    "photo": "assets/fotos/roma.jpg",
+                    "description": "Italia-Roma 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [10.4000, 43.7167] // París
+                },
+                "properties": {
+                    "title": " Italia",
+                    "photo": "assets/fotos/pisa.jpg",
+                    "description": "Italia-Pisa 2022"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [9.1900, 45.4642] // París
+                },
+                "properties": {
+                    "title": " Italia",
+                    "photo": "assets/fotos/milan.jpg",
+                    "description": "Italia-Milan 2022"
+                }
+            },
+            
+
 
 
 
